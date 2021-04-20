@@ -1,0 +1,40 @@
+{
+       "info": {
+
+        "url_png_icon_64x64": "https://charity-pool.ro/chrty_logo.png",
+
+        "location": "Valencia, Spain",
+
+        "social": {
+
+            "twitter_handle": "",
+
+            "telegram_handle": "",
+
+            "github_handle": ""
+
+        },
+
+        "about": {
+
+            "me": "Single Pool Operator",
+
+            "server": "Low energy SoC BP, Relays & Monitor located in Spain"
+
+    },
+
+    "my-pool-ids": {
+
+        "0": "00333b89543da962cc92e7ffa45848f42a98f7276780670728ce5256"
+
+    },
+
+    "when-satured-then-recommend": {
+
+        "0": "small pools - support decentralization"
+
+    }
+
+}
+
+}
