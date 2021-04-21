@@ -2,5 +2,6 @@
   "name": "PiPool",
   "description": "A safe low-energy pool to spread the use of cryptocurrencies in local communities.",
   "ticker": "SOCY",
-  "homepage": ""
+  "homepage": "",
+  "extended": "https://git.io/JOoMI"
   }
