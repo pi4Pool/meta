@@ -1,7 +1,7 @@
 {
        "info": {
 
-        "url_png_icon_64x64": "https://charity-pool.ro/chrty_logo.png",
+        "url_png_icon_64x64": "https://github.com/pi4Pool/meta/blob/main/pIcon.png",
 
         "location": "Valencia, Spain",
 
@@ -19,7 +19,7 @@
 
             "me": "Single Pool Operator",
 
-            "server": "Low energy SoC BP, Relays & Monitor located in Spain"
+            "server": "Low energy SoCs. BP, relays & monitor located in Spain"
 
     },
 
